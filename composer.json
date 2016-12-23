@@ -24,6 +24,11 @@
         "drupal/adminimal_admin_toolbar": "^8.1",
         "drupal/coffee": "^8.1",
         "drupal/responsive_menu": "^8.1",
-        "drupal/site_verify": "^8.1"
+        "drupal/site_verify": "^8.1",
+        "drupal/simple_sitemap": "^8.1",
+        "drupal/redirect": "^8.1",
+        "drupal/shariff": "^8.1",
+        "drupal/hreflang": "^8.1",
+        "drupal/yoast_seo": "^8.1"
     }
 }

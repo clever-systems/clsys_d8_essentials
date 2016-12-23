@@ -11,3 +11,5 @@ dependencies:
   - toolbar_themes
   - adminimal_admin_toolbar
   - coffee
+  - simple_sitemap
+  - hreflang
