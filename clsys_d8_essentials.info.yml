@@ -1,0 +1,13 @@
+name: "Clsys D8 Essentials"
+type: module
+description: "Some useful modules."
+core: 8.x
+package: clever-systems.net
+dependencies:
+  - pathauto
+  - metatag
+  - asset_injector
+  - admin_toolbar
+  - toolbar_themes
+  - adminimal_admin_toolbar
+  - coffee
