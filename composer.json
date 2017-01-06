@@ -23,7 +23,7 @@
         "drupal/adminimal_theme": "^1.0",
         "drupal/adminimal_admin_toolbar": "^1.0",
         "drupal/coffee": "^1.0",
-        "drupal/responsive_menu": "^1.0",
+        "drupal/responsive_menu": "^2.0",
         "drupal/site_verify": "^1.0",
         "drupal/simple_sitemap": "^1.0",
         "drupal/redirect": "^1.0",
