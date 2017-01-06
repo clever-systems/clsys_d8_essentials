@@ -15,19 +15,19 @@
         }
     ],
     "require": {
-        "drupal/metatag": "^8.1",
-        "drupal/pathauto": "^8.1",
-        "drupal/asset_injector": "^8.1",
-        "drupal/admin_toolbar": "^8.1",
-        "drupal/toolbar_themes": "^8.1",
-        "drupal/adminimal_theme": "^8.1",
-        "drupal/adminimal_admin_toolbar": "^8.1",
-        "drupal/coffee": "^8.1",
-        "drupal/responsive_menu": "^8.1",
-        "drupal/site_verify": "^8.1",
-        "drupal/simple_sitemap": "^8.1",
-        "drupal/redirect": "^8.1",
-        "drupal/hreflang": "^8.1",
-        "drupal/yoast_seo": "^8.1"
+        "drupal/metatag": "^1.0",
+        "drupal/pathauto": "^1.0",
+        "drupal/asset_injector": "^1.0",
+        "drupal/admin_toolbar": "^1.0",
+        "drupal/toolbar_themes": "^1.0",
+        "drupal/adminimal_theme": "^1.0",
+        "drupal/adminimal_admin_toolbar": "^1.0",
+        "drupal/coffee": "^1.0",
+        "drupal/responsive_menu": "^1.0",
+        "drupal/site_verify": "^1.0",
+        "drupal/simple_sitemap": "^1.0",
+        "drupal/redirect": "^1.0",
+        "drupal/hreflang": "^1.0",
+        "drupal/yoast_seo": "^1.0"
     }
 }
