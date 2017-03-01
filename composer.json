@@ -18,6 +18,7 @@
         "drupal/metatag": "^1.0",
         "drupal/pathauto": "^1.0",
         "drupal/asset_injector": "^1.0",
+        "drupal/devel": "^1.0",
         "drupal/admin_toolbar": "^1.0",
         "drupal/toolbar_themes": "^1.0",
         "drupal/adminimal_theme": "^1.0",
