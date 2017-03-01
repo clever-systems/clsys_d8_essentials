@@ -29,6 +29,7 @@
         "drupal/redirect": "^1.0",
         "drupal/hreflang": "^1.0",
         "drupal/yoast_seo": "^1.0",
-        "drupal/config_sync": "^1.0"
+        "drupal/config_sync": "^1.0",
+        "drupal/config_inspector": "^1.0"
     }
 }
